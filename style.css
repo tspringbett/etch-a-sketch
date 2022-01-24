@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    max-width: 320px;
+    display: grid;
+    border-width: 1px;
+    border-style: solid;
+    width: 320px;
+    height: 320px;
+}
+
+.buttons {
+    padding: 10px;
+}
+
+#div {
+    background-color: black;
+}
